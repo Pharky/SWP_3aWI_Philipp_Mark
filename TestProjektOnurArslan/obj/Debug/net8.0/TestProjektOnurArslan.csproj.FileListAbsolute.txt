@@ -1,0 +1,7 @@
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProjektOnurArslan
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\obj\Debug\net8.0\TestProjektOnurArslan.csproj.AssemblyReference.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\obj\Debug\net8.0\TestProjektOnurArslan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\obj\Debug\net8.0\TestProjektOnurArslan.AssemblyInfoInputs.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\obj\Debug\net8.0\TestProjektOnurArslan.AssemblyInfo.cs
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\obj\Debug\net8.0\TestProjektOnurArslan.csproj.CoreCompileInputs.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\TestProjektOnurArslan\obj\Debug\net8.0\TestProjektOnurArslan.sourcelink.json

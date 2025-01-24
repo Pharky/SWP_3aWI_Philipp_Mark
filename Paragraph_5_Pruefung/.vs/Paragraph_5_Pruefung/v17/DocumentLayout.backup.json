@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A79F8C4B-7B4A-4A5F-8FC6-B789CFA65BA8}|Paragraph_5_Pruefung\\Paragraph_5_Pruefung.csproj|c:\\users\\phark\\onedrive\\dokumente\\schule\\swp\\swp 3. klasse\\swp-24-27\\projekt 1 philipp mark\\paragraph_5_pruefung\\paragraph_5_pruefung\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79F8C4B-7B4A-4A5F-8FC6-B789CFA65BA8}|Paragraph_5_Pruefung\\Paragraph_5_Pruefung.csproj|solutionrelative:paragraph_5_pruefung\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79F8C4B-7B4A-4A5F-8FC6-B789CFA65BA8}|Paragraph_5_Pruefung\\Paragraph_5_Pruefung.csproj|c:\\users\\phark\\onedrive\\dokumente\\schule\\swp\\swp 3. klasse\\swp-24-27\\projekt 1 philipp mark\\paragraph_5_pruefung\\paragraph_5_pruefung\\werkstatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79F8C4B-7B4A-4A5F-8FC6-B789CFA65BA8}|Paragraph_5_Pruefung\\Paragraph_5_Pruefung.csproj|solutionrelative:paragraph_5_pruefung\\werkstatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79F8C4B-7B4A-4A5F-8FC6-B789CFA65BA8}|Paragraph_5_Pruefung\\Paragraph_5_Pruefung.csproj|c:\\users\\phark\\onedrive\\dokumente\\schule\\swp\\swp 3. klasse\\swp-24-27\\projekt 1 philipp mark\\paragraph_5_pruefung\\paragraph_5_pruefung\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79F8C4B-7B4A-4A5F-8FC6-B789CFA65BA8}|Paragraph_5_Pruefung\\Paragraph_5_Pruefung.csproj|solutionrelative:paragraph_5_pruefung\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\Paragraph_5_Pruefung\\Auto.cs",
+              "RelativeDocumentMoniker": "Paragraph_5_Pruefung\\Auto.cs",
+              "ToolTip": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\Paragraph_5_Pruefung\\Auto.cs",
+              "RelativeToolTip": "Paragraph_5_Pruefung\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:52:51.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Werkstatt.cs",
+              "DocumentMoniker": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\Paragraph_5_Pruefung\\Werkstatt.cs",
+              "RelativeDocumentMoniker": "Paragraph_5_Pruefung\\Werkstatt.cs",
+              "ToolTip": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\Paragraph_5_Pruefung\\Werkstatt.cs",
+              "RelativeToolTip": "Paragraph_5_Pruefung\\Werkstatt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:52:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fahrzeug.cs",
+              "DocumentMoniker": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\Paragraph_5_Pruefung\\Fahrzeug.cs",
+              "RelativeDocumentMoniker": "Paragraph_5_Pruefung\\Fahrzeug.cs",
+              "ToolTip": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Paragraph_5_Pruefung\\Paragraph_5_Pruefung\\Fahrzeug.cs",
+              "RelativeToolTip": "Paragraph_5_Pruefung\\Fahrzeug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:52:47.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

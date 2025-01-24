@@ -1,0 +1,5 @@
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\Paragraph_5_Pruefung\Paragraph_5_Pruefung\obj\Debug\net8.0\Paragraph_5_Pruefung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\Paragraph_5_Pruefung\Paragraph_5_Pruefung\obj\Debug\net8.0\Paragraph_5_Pruefung.AssemblyInfoInputs.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\Paragraph_5_Pruefung\Paragraph_5_Pruefung\obj\Debug\net8.0\Paragraph_5_Pruefung.AssemblyInfo.cs
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\Paragraph_5_Pruefung\Paragraph_5_Pruefung\obj\Debug\net8.0\Paragraph_5_Pruefung.csproj.CoreCompileInputs.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt 1 Philipp Mark\Paragraph_5_Pruefung\Paragraph_5_Pruefung\obj\Debug\net8.0\Paragraph_5_Pruefung.sourcelink.json
